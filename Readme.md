@@ -12,6 +12,7 @@
 - [Git commands]( https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 - [Introduction to Github](https://guides.github.com/activities/hello-world/)
 - [Switching to kotlin](https://www.baeldung.com/java-to-kotlin)
+- [Still not comfortable with git and Github?](https://drive.google.com/drive/folders/1sLG9yatHOrsh2Xj9JlLQAYvjOZBMPCPH?usp=sharing)
 
 ## The Task
 After learning about git and github, you are expected to clone this repository. Create a folder with your name within this folder, complete the 
