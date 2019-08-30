@@ -13,10 +13,14 @@
 - [Introduction to Github](https://guides.github.com/activities/hello-world/)
 - [Switching to kotlin](https://www.baeldung.com/java-to-kotlin)
 - [Still not comfortable with git and Github?](https://drive.google.com/drive/folders/1sLG9yatHOrsh2Xj9JlLQAYvjOZBMPCPH?usp=sharing)
+- [Setting up git on Windows](https://www.computerhope.com/issues/ch001927.htm)
+- []
 
 ## The Task
-After learning about git and github, you are expected to clone this repository. Create a folder with your name within this folder, complete the 
-implementation of RestrauntBillingSystem.kt in kotlin, commit your changes, push them, and create a pull request, with an appropriate message.
+You are first supposed to learn about git and Github. You may refer the above resources, or any other resources you like.
+You will also have to learn the basic syntax of kotlin.
+After learning about git ,github and kotlin, you are expected to complete the 
+implementation of RestrauntBillingSystem.kt in kotlin, commit your changes, and push them to your repository with an appropriate message.
 While writing the code, you are expected to follow proper indentation, java naming conventions, and comment your code. 
 
 ### Timeline
